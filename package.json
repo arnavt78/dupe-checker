@@ -1,0 +1,15 @@
+{
+  "name": "dupe-checker",
+  "version": "1.0.0",
+  "description": "Checks if there are duplicate entries in text",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnav Thorat",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
